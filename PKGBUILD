@@ -2,7 +2,7 @@
 # Contributor: Felix Hanley <felix@seconddrawer.com.au>
 pkgname=percona-toolkit
 pkgver=2.2.7
-pkgrel=1
+pkgrel=2
 pkgdesc="A collection of advanced command-line tools to perform a variety of MySQL and system tasks."
 url="http://www.percona.com/software/percona-toolkit/"
 arch=('any')
